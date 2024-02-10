@@ -1,0 +1,1 @@
+rootProject.name = "back-micronaut-test-task"
